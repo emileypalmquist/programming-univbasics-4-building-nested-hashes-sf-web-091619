@@ -18,7 +18,12 @@ def monopoly_with_third_tier
       :third_level => '3',
       :fourth_level => '4'
       },
-    :names => ''
+    :names => {
+      :first_railroad => '',
+      :second_railroad => '',
+      :third_railroad => '',
+      :fourth_railroad => ''
+    }
     }
   }
 end
