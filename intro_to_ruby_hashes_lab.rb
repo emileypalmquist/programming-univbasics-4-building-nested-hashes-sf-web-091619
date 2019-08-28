@@ -18,6 +18,7 @@ def monopoly_with_third_tier
       :third_level => '3',
       :fourth_level => '4'
       }
+    :names => ''
     }
   }
 end
